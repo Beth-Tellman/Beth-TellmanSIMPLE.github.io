@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Opportunities"
+permalink: /opportunities/
+author_profile: true
+---
+
 ## Opportunities
 
 The lab is currently seeing a PhD student for a funded research assitantship via a NASA Funded LCLUC (Land use Land Cover Change) Grant.
