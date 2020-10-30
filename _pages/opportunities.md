@@ -15,6 +15,6 @@ Interested students should send an email to Beth-> et2663 [at] columbia.edu with
 
 This project is a unique opportunity to work with a multi-discplinary research team of ecologists, ethnographers, and land change scientists to better understand the social and ecological impacts of the drug trade and US War on Drugs in Central America.
 
-We are devoted to building a diverse and inclusive lab. Women and all expressions of gender identity, Black, Indigenous, and people of Color, LGBTQ people, and individuals with disabilities are especially encourage to apply.
+We are devoted to building a diverse, inclusive, and anti-racist lab. Women and all expressions of gender identity, Black, Indigenous, and people of Color, LGBTQ people, and individuals with disabilities are especially encouraged to apply.
 
 
