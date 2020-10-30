@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Data-driven approaches to understand landscape change, mitigate vulnerability, and build a better world"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
