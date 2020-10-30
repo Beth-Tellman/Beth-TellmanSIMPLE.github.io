@@ -8,7 +8,7 @@ author_profile: true
 
 ## Opportunities
 
-The lab is currently seeing a PhD student for a funded research assitantship via a NASA Funded LCLUC (Land use Land Cover Change) Grant to start in August 2021.The project, titled "Making the Hidden Visible: Accelerated Land-Use Change and Degradation Caused by Narco-Trafficking In and Around Central America’s Protected Areas" is a collaborative grant with Dr. Nicholas Magliocca and Dr. Matt Fagan.
+The lab is currently seeing a PhD student for a funded research assitantship via a NASA Funded LCLUC (Land use Land Cover Change) Grant to start in August 2021. The project, titled "Making the Hidden Visible: Accelerated Land-Use Change and Degradation Caused by Narco-Trafficking In and Around Central America’s Protected Areas" is a collaborative grant with Dr. Nicholas Magliocca and Dr. Matt Fagan.
 The research assistant will map clandestine infrastructure (airstrips and roads) in protected areas in Guatemala, Honduras, and Costa Rica. We will be using multi-sensor fusion (optical and radar, including high resolution Planetscope data) and deep learning models to identify infrastructure.
 Interested students should send an email to Beth-> et2663 [at] columbia.edu with their CV and a sample of writing they are proud of.
 
