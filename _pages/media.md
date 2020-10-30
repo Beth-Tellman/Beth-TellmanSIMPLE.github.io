@@ -8,7 +8,7 @@ author_profile: true
 ## Media
 
 ### Narcotrafficking and forest loss in Central America
-**To preserve tropical forests, empower local communities** [Phys.org](https://phys.org/news/2020-08-tropical-forests-empower-local.html)
+**To preserve tropical forests, empower local communities** [Phys.org](https://phys.org/news/2020-08-tropical-forests-empower-local.html)\
 
 **Los guardianes de la selva maya desafían a narcos e inversores** [ElPais](https://elpais.com/elpais/2020/08/17/planeta_futuro/1597672583_307812.html)
 
