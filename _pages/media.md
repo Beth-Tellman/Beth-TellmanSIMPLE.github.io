@@ -16,4 +16,4 @@ author_profile: true
 **Viven 38 mil en precariedad hídrica alta en CDMX** [La Reforma](https://www.reforma.com/aplicacioneslibre/preacceso/articulo/default.aspx?urlredirect=https://www.reforma.com/viven-38-mil-en-precariedad-hidrica-alta-en-cdmx/ar2055025?utm_source=twitter&utm_medium=social&utm_campaign=robotgr&utm_content=@reformaciudad&referer=--7d616165662f3a3a613b767a3a--)
 
 ### Cloud to Street
-**Lightening talk about flood mapping in Republic of Congo at [Geoforgood2020](https://earthoutreachonair.withgoogle.com/events/geoforgood20/watch?talk=talk-37)
+**Lightening talk about flood mapping in Republic of Congo at [Geoforgood2020](https://earthoutreachonair.withgoogle.com/events/geoforgood20/watch?talk=talk-37)**
